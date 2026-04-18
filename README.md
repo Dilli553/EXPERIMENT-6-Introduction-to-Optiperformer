@@ -68,21 +68,14 @@ The system includes:
 
 ## Tabulation
 
-**Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="710" height="1280" alt=screenshot src="https://github.com/user-attachments/assets/b5cdeae4-c9ea-4558-89dc-a007f276b8d6" />
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1920" height="1080" alt="Screenshot 2026-04-18 132918" src="https://github.com/user-attachments/assets/496f4634-2a98-4479-b48e-beefa3f4afda" />
+
 
 ---
 
